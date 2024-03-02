@@ -8,15 +8,12 @@ DB_PORT=
 DB_NAME=
 DB_DIALECT=
 
-JWT_SECRET=secretkeytokenstray
-JWT_REFRESH=refreshkeytokenstray
+JWT_SECRET=
+JWT_REFRESH==
 
-EMAIL_USER=kaizensystemhk@gmail.com
-EMAIL_PASSWORD=otzrxypmzhiylgfm
 
-IMAGEKIT_ID=34nabbgwi
-IMAGEKIT_PUBLIC_KEY=public_keqGAeWXzAYG2ktFxYAMw3iOvJ4=
-IMAGEKIT_PRIVATE_KEY=private_O1A+XhN4HxUJt2uttIuriujoz8o=
+
+
 
 CLIENT_ID =927180950095-6fggari8r96t3f3e6qru350sgof4mra8.apps.googleusercontent.com
 CLIENT_SECRET =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
