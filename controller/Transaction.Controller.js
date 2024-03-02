@@ -96,7 +96,7 @@ const buy = async(req,res,next)=>{
         console.log('QR code saved!');
         });
         await transaction.commit();
-        return res.status(200).json({
+        return res.status(201).json({
             message:'Transaction Created',
             data : buyMutualFunds
             })
@@ -277,7 +277,7 @@ const sell = async (req,res,next)=>{
         },{transaction})
 
         await transaction.commit();
-        return res.status(200).json({
+        return res.status(201).json({
             message:'Sell Success',
             data : {
                 transaction : createTransaction, 
@@ -338,7 +338,7 @@ const switchMutualFund = async (req,res,next)=>{
         let targetunits = req.body.amount / Number(targetMutualFund.nav)
         
        
-        if (!((day >= 1 && day <= 5) && (((hour >= 8 && hour < 15) )|| (hour === 15 && minutes === 0)))){
+        if (((day >= 1 && day <= 5) && (((hour >= 8 && hour < 15) )|| (hour === 15 && minutes === 0)))){
             executed = true
         }
 
@@ -359,7 +359,8 @@ const switchMutualFund = async (req,res,next)=>{
         
             targetMyInvest = await MyInvest.findOne({
                 where:{
-                    mutualfund_id:targetMutualFund.id
+                    mutualfund_id:targetMutualFund.id,
+                    id:req.id
             }},{transaction})
 
             if(!targetMyInvest){

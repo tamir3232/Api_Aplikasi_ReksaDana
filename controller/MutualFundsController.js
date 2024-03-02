@@ -5,7 +5,6 @@ const getMutualFunds = async(req,res, next)=>{
     try {
         const MutualFundsExist = await MutualFunds.findAll()
         if(MutualFundsExist){
-            console.log(MutualFundsExist.length > 0)
             return res.status(200).json({
                 message:'Success get Mutual Funds',
                 data:MutualFundsExist
@@ -79,8 +78,7 @@ const deleteMutualFunds = async (req, res, next) => {
                 message: 'Mutual Funds not found',
             }
         }
-        await MutualFundsExist.update({
-            deleted_at: new Date})
+        await MutualFundsExist.destroy( {force: true})
 
         return res.status(200).json({
             message: 'Delete Mutual Funds successful',

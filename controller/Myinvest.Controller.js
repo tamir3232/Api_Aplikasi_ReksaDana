@@ -17,7 +17,7 @@ const getMyInvest = async (req,res,next)=>{
         }
 
         return res.status(200).json({
-            message:'My Transaction',
+            message:'My Invest',
             data :myInvestExist
             
             })
@@ -44,7 +44,7 @@ const getDetailMyInvest = async(req,res,next)=>{
         await myInvestExist.update({ammount:Number(mutualFund.nav) * Number(myInvestExist.units)})
 
         return res.status(200).json({
-            message:'My Transaction',
+            message:'My Invest',
             data :{
                 id : myInvestExist.id,
                 units: myInvestExist.units,

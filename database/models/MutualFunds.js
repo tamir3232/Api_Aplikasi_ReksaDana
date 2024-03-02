@@ -24,8 +24,8 @@ MutualFunds.init({
       deleted_at: {
         type: DataTypes.DATE,
         allowNull: true,
-      }
-
+      },
+     
 
 }, {
     sequelize: connection, //ini adalh sequelize dari config di atas
@@ -34,6 +34,9 @@ MutualFunds.init({
     paranoid: true, // untuk mengaktifi softdelete yg delete_at
     freezeTableName: true,
     tableName: 'mutual-funds',
+    paranoid: true,
+    // If you want to give a custom name to the deletedAt column
+    deletedAt: 'deleted_at'
 
 })
 

@@ -6,9 +6,9 @@ const bcrypt = require('bcryptjs')
 
 
 const register = async(req,res,next)=>{
-    let transaction
+    let transactions
     try {
-        transaction = await sequelize.transaction();
+        
         const{
             name,email,password
         } = req.body
@@ -24,6 +24,7 @@ const register = async(req,res,next)=>{
 
 
         const hashPassword = await bcrypt.hash(password,10)
+        transactions = await sequelize.transaction();
         const user = await Users.create(
             {
                 name,
@@ -31,9 +32,11 @@ const register = async(req,res,next)=>{
                 password: hashPassword,
                 role:"MEMBER"
             },
-            { transaction }
+            { transactions }
         )
-        await transaction.commit();
+
+
+        await transactions.commit();
         return res.status(201).json({
             message:'User registration has successful',
             data: user,
@@ -41,7 +44,8 @@ const register = async(req,res,next)=>{
 
        
     } catch (error) {
-        await transaction.rollback();
+        console.log("halo")
+        await transactions.rollback();
         next(error)
     }
 }
@@ -50,9 +54,9 @@ const register = async(req,res,next)=>{
 
 
 const login = async(req,res,next)=>{
-    let transaction
+
     try {
-        transaction = await sequelize.transaction();
+        
         const{
             email,password
         } = req.body
@@ -64,7 +68,7 @@ const login = async(req,res,next)=>{
             }
         })
         if(!userExist){
-            return res.status(409).json({
+            return res.status(404).json({
                 message : 'User not exist'
             })
         }
@@ -82,8 +86,9 @@ const login = async(req,res,next)=>{
             process.env.JWT_SECRET)
       
 
+        
       
-        return res.status(201).json({
+        return res.status(200).json({
             message:'Login Success',
             data: {
                 token : token,
@@ -100,7 +105,7 @@ const login = async(req,res,next)=>{
 const UpdatePassword = async(req,res,next)=>{
     let transaction
     try {
-        transaction = await sequelize.transaction();
+        
         const{
            password
         } = req.body
@@ -118,6 +123,7 @@ const UpdatePassword = async(req,res,next)=>{
         }
 
         const hashPassword = await bcrypt.hash(password,10)
+        transaction = await sequelize.transaction();
         await userExist.update({
             password:hashPassword
         },{transaction})

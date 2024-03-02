@@ -4,6 +4,7 @@ const isTokenValid = (role) => (req, res, next) => {
     try {
        
         let token = req.get('Authorization')
+   
         if (!token) {
             return res.status(404).json({
                 message: 'No token provided.',
@@ -20,7 +21,6 @@ const isTokenValid = (role) => (req, res, next) => {
                         'Do not have authorization to access this resource',
                 }
             }
-        console.log(decoded)
         req.email = decoded.email
         req.id = decoded.id
         next()

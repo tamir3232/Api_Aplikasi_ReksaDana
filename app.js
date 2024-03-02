@@ -35,8 +35,8 @@ const oauth2client = new google.auth.OAuth2(
 
 const scopes = [
 'https://www.googleapis.com/auth/userinfo.email',
-'https://www.googleapis.com/auth/userinfo.profile'
-]
+'https://www.googleapis.com/auth/userinfo.profile']
+
 
 const authorizationUrl = oauth2client.generateAuthUrl({
   access_type:'offline',
@@ -47,27 +47,28 @@ const authorizationUrl = oauth2client.generateAuthUrl({
 
 
 
-var app = express();
-
+const app = express();
 
 // view engine setup
-app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'jade');
+// app.set('views', path.join(__dirname, 'views'));
+// app.set('view engine', 'jade');
 
-app.use(logger('dev'));
+// app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(multer({storage: storage}).single('file'))
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
+
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
+  console.log(` app listening on port ${port}`)
 })
-app.use(indexRouter);
 app.get('/api/v1/docs', function (req, res) {
   res.redirect('https://documenter.getpostman.com/view/21903646/2sA2xb6FdE');
 });
+app.use(indexRouter);
+
 app.use('*', notFound)
 app.use(error)
 

@@ -4133,3 +4133,1536 @@
   label: 'backend-service',
   timestamp: '2024-03-02T10:01:36.598Z'
 }
+{
+  message: 'GET /api/v1/auth/register',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T13:42:00.010Z'
+}
+{
+  message: 'GET /api/v1/auth/register',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T13:42:01.317Z'
+}
+{
+  message: 'jwt must be provided',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:14:26.787Z'
+}
+{
+  message: 'jwt must be provided',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:14:26.798Z'
+}
+{
+  message: 'jwt must be provided',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:14:26.803Z'
+}
+{
+  message: 'jwt must be provided',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:15:18.954Z'
+}
+{
+  message: 'jwt must be provided',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:15:18.966Z'
+}
+{
+  message: 'jwt must be provided',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:15:18.973Z'
+}
+{
+  message: 'jwt must be provided',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:16:01.539Z'
+}
+{
+  message: 'jwt must be provided',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:16:01.552Z'
+}
+{
+  message: 'jwt must be provided',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:16:01.558Z'
+}
+{
+  message: 'jwt must be provided',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:16:56.433Z'
+}
+{
+  message: 'jwt must be provided',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:16:56.446Z'
+}
+{
+  message: 'jwt must be provided',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:16:56.451Z'
+}
+{
+  message: 'jwt must be provided',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:17:45.626Z'
+}
+{
+  message: 'jwt must be provided',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:17:45.641Z'
+}
+{
+  message: 'jwt must be provided',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:17:45.649Z'
+}
+{
+  message: 'jwt must be provided',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:18:05.773Z'
+}
+{
+  message: 'jwt must be provided',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:18:05.787Z'
+}
+{
+  message: 'jwt must be provided',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:18:05.794Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:18:51.283Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:18:51.295Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:18:51.300Z'
+}
+{
+  message: 'WHERE parameter "email" has invalid "undefined" value',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:20:15.605Z'
+}
+{
+  message: 'WHERE parameter "email" has invalid "undefined" value',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:20:19.716Z'
+}
+{
+  message: 'WHERE parameter "email" has invalid "undefined" value',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:20:25.973Z'
+}
+{
+  message: 'WHERE parameter "email" has invalid "undefined" value',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:20:50.567Z'
+}
+{
+  message: 'WHERE parameter "email" has invalid "undefined" value',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:20:58.373Z'
+}
+{
+  message: 'WHERE parameter "email" has invalid "undefined" value',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:21:40.623Z'
+}
+{
+  message: 'WHERE parameter "email" has invalid "undefined" value',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:21:57.731Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:22:19.084Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:22:19.096Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:22:19.103Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:23:04.684Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:23:04.696Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:23:04.702Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:23:40.965Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:23:40.983Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:23:40.990Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:24:07.614Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:24:07.632Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:24:15.959Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:24:15.972Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:24:15.979Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:24:46.295Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:24:46.308Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:24:46.315Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:24:55.800Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:24:55.812Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:24:55.824Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:26:26.462Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:26:26.478Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:26:26.486Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:26:53.446Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:26:53.460Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:27:02.276Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:27:02.293Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:27:02.301Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:28:36.725Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:28:36.739Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:28:36.744Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:28:55.281Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:28:55.294Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:28:55.300Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:30:15.567Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:30:15.582Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:30:15.587Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:30:45.260Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:30:45.272Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:30:45.284Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:31:24.852Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:31:24.872Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:31:24.880Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:31:30.418Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:31:30.432Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:31:30.445Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:35:14.157Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:35:49.437Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:35:49.449Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:36:53.132Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:36:53.143Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:37:18.874Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:37:18.886Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:38:16.751Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:38:16.764Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:38:21.545Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:38:21.559Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:38:44.014Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:38:44.030Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:40:04.677Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:40:04.698Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:41:00.154Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:41:00.170Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:41:05.718Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:41:05.742Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:41:05.757Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:41:18.293Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:41:18.308Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:41:18.317Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:41:27.683Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:41:27.701Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:41:27.714Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:41:39.324Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:41:39.349Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:41:39.362Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:41:42.800Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:41:42.815Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:41:42.824Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:42:10.353Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:42:10.368Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:42:19.623Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:42:19.642Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:42:51.557Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:42:51.579Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:42:51.596Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:43:04.059Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:43:04.080Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:43:04.098Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:43:17.628Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:43:17.651Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:43:17.665Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:43:28.855Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:43:28.878Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:43:28.892Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:43:45.579Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:43:45.609Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:43:45.624Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:43:58.655Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:43:58.679Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:43:58.698Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:44:18.600Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:44:18.626Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:44:18.643Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:44:24.897Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:44:24.920Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:44:24.938Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:44:42.612Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:44:42.643Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:44:42.662Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:44:45.533Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:44:45.553Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:44:45.568Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:45:14.153Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:45:14.174Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:45:14.186Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:45:28.089Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:45:28.105Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:45:28.115Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:45:34.230Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:45:34.248Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:45:34.259Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:46:05.722Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:46:05.740Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:46:05.756Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:46:11.599Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:46:11.618Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:46:11.629Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:46:17.288Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:46:17.306Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:46:17.323Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:46:33.275Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:46:33.295Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:46:33.306Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:46:57.438Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:46:57.453Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:47:15.974Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:47:15.992Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:47:16.005Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:47:19.511Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:47:19.526Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:47:22.981Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:47:23.003Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:47:27.865Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:47:27.885Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:47:31.760Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:47:31.777Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:47:42.882Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:47:42.899Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:48:01.472Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:48:22.341Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:48:22.359Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:48:35.376Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:48:35.393Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:48:46.165Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:48:46.182Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:49:39.687Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:49:39.704Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:51:36.241Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:51:36.259Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:51:43.454Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T14:51:43.475Z'
+}
+{
+  message: 'operator does not exist: uuid = integer',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:06:51.500Z'
+}
+{
+  message: 'Do not have authorization to access this resource',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:08:05.551Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:11:23.566Z'
+}
+{
+  message: 'MutualFundsExist.deleteone is not a function',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:13:34.940Z'
+}
+{
+  message: 'MutualFundsExist.deleteOne is not a function',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:13:49.809Z'
+}
+{
+  message: 'MutualFundsExist.deleteOne is not a function',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:13:52.697Z'
+}
+{
+  message: 'column "paranoid" does not exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:16:46.721Z'
+}
+{
+  message: 'column "destroy_time" does not exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:17:02.622Z'
+}
+{
+  message: 'column "destroy_time" does not exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:17:04.184Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:17:16.732Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:20:15.943Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:20:54.657Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:21:12.470Z'
+}
+{
+  message: 'Transactions Not Paid',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:33:41.947Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:34:10.776Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:35:03.412Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:37:48.566Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:38:41.687Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:38:45.033Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:39:29.932Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:39:34.999Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:39:39.597Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:39:57.852Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:40:11.769Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:40:29.740Z'
+}
+{
+  message: 'Do not have authorization to access this resource',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:47:25.676Z'
+}
+{
+  message: 'Do not have authorization to access this resource',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:47:27.349Z'
+}
+{
+  message: 'jwt malformed',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T15:48:04.944Z'
+}

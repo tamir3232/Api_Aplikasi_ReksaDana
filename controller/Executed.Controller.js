@@ -70,7 +70,7 @@ const executed = async(req,res,next)=>{
             }
             await transaction.commit()
             return res.status(200).json({
-                message:'Transaction Is Not Executed',
+                message:'Transaction Is Executed',
                 data :{
                     transaction: transactionExist, 
                     myinvest : myInvestExist
@@ -79,7 +79,7 @@ const executed = async(req,res,next)=>{
         }
         else if(transactionExist.transaction_type == 'sell'){
 
-            await transactionExist.update({
+            transactionExist = await transactionExist.update({
                 executed : req.body.executed
             },{transaction})
 
@@ -100,7 +100,7 @@ const executed = async(req,res,next)=>{
                 }
             })
 
-            console.log("halo")
+            
             if(!myInvestExist){
                 throw{
                     code:400,
@@ -120,7 +120,7 @@ const executed = async(req,res,next)=>{
             
             await transaction.commit()
             return res.status(200).json({
-                message:'Transaction Is Not Executed',
+                message:'Transaction Is Executed',
                 data :{
                     transaction: transactionExist, 
                     myinvest : myInvestExist
@@ -181,7 +181,7 @@ const executed = async(req,res,next)=>{
 
             await transaction.commit();
             return res.status(200).json({
-                message:'Transaction Is Not Executed',
+                message:'Transaction Is Executed',
                 data :{
                     transaction: transactionExist, 
                     myinvest : myInvestExist
