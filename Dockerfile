@@ -1,13 +1,17 @@
-FROM node:20.h.5
+FROM node:20.5.0
 
 
 
 WORKDIR /usr/app
 
-COPY . ,
+COPY . .
+RUN apt-get update -y && apt-get install -y \
+    nano \
+    net-tools
 
+COPY package.json .
 RUN npm install
 
 EXPOSE 3000
 
-CMD [ "npm", "start" ]
+CMD [ "node", "app.js" ]

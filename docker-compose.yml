@@ -1,0 +1,42 @@
+version: "3.8"
+services:
+  db_postgress:
+    container_name: db_postgress
+    image: "postgres:14"
+    environment:
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_NAME}
+    ports:
+      - "7000:5432"
+    restart: always
+    volumes:
+      - database-data:/var/lib/postgresql/data/
+    networks:
+      - app-network
+
+  app:
+    container_name: Reksa-Dana-appp
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - DB_HOST =db_postgress
+      - DB_USER=${DB_USER}
+      - DB_PASSWORD=${DB_PASSWORD}
+      - DB_NAME=${DB_NAME}
+      - DB_PORT=5432
+    ports:
+      - "3000:3000"
+    depends_on:
+      - db_postgress
+    # entrypoint: ["/bin/bash", "./entrypoint.sh"]
+    restart: always
+    networks:
+      - app-network
+
+volumes:
+  database-data: {}
+networks:
+  app-network:
+    driver: bridge

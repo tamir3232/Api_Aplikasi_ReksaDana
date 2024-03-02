@@ -18,3 +18,6 @@ router.post('/switch/:id', isTokenValid('MEMBER'),switchMutualFund)
 // router.delete('/:id', deleteMutualFunds)
 
 module.exports = router
+
+
+

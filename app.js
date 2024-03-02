@@ -65,7 +65,9 @@ app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
 app.use(indexRouter);
-
+app.get('/api/v1/docs', function (req, res) {
+  res.redirect('https://documenter.getpostman.com/view/21903646/2sA2xb6FdE');
+});
 app.use('*', notFound)
 app.use(error)
 

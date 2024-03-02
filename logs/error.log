@@ -4119,3 +4119,17 @@
   label: 'backend-service',
   timestamp: '2024-03-02T08:32:08.180Z'
 }
+{
+  message: 'invalid_grant',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T09:59:17.781Z'
+}
+{
+  message: 'GET /ASDA',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T10:01:36.598Z'
+}
