@@ -7,7 +7,7 @@ module.exports = {
       'myinvest',
       
       'pendingsell_amount',{
-          type: Sequelize.INTEGER,
+          type: Sequelize.DECIMAL,
           allowNull: true,
         }
     )
@@ -18,7 +18,7 @@ module.exports = {
       'myinvest',
       
       'pendingsell_amount',{
-          type: Sequelize.INTEGER,
+          type: Sequelize.DECIMAL,
           
         }
     )

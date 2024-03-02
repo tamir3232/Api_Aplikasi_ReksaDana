@@ -6,7 +6,7 @@ module.exports = {
     return queryInterface.addColumn(
       'myinvest',
       'pendingswitch_amount',{
-          type: Sequelize.INTEGER,
+          type: Sequelize.DECIMAL,
           allowNull: true,
         },
      
@@ -17,7 +17,7 @@ module.exports = {
     return queryInterface.removeColumn(
       'myinvest',
       'pendingswitch_amount',{
-          type: Sequelize.INTEGER,
+          type: Sequelize.DECIMAL,
           
         },
      

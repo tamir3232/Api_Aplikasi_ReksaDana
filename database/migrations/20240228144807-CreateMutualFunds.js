@@ -18,7 +18,7 @@ module.exports = {
         allowNull:false
       },
       nav:{
-        type: Sequelize.INTEGER,
+        type: Sequelize.DECIMAL,
         allowNull: false
       },
       created_at: {
