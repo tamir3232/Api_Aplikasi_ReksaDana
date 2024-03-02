@@ -1,16 +1,12 @@
 FROM node:20.h.5
 
-RUN mkdir -p /home/node/app/node_modules && chown -R node:node /home/node/app
 
-WORKDIR /home/node/app
 
-COPY package*.json ./
+WORKDIR /usr/app
 
-USER node
+COPY . ,
 
 RUN npm install
-
-COPY --chown=node:node . .
 
 EXPOSE 3000
 

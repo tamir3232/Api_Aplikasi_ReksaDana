@@ -15,5 +15,6 @@ JWT_REFRESH==
 
 
 
-CLIENT_ID =927180950095-6fggari8r96t3f3e6qru350sgof4mra8.apps.googleusercontent.com
-CLIENT_SECRET =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
+CLIENT_ID =
+CLIENT_SECRET = 
+for google apis 
