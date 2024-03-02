@@ -1,10 +1,9 @@
-# stray project
+# Api_Mutual_funds
 
-repository for the API Using ExpressJS and PostgresSQL #challengePlatinumBinarAcademy
 
-## First make your env
+##  make your env
 
-## Second Run Dockere COMPOSE
+##  Run Dockere COMPOSE
 
 ```
 Docker Compose up
