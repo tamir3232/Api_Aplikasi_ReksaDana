@@ -3,4 +3,5 @@ node_modules
 storage/
 
 /public/images/uploads/
-logs/
+/logs
+

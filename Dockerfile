@@ -1,13 +1,17 @@
-FROM node:16
+FROM node:20.h.5
 
-WORKDIR /app
+RUN mkdir -p /home/node/app/node_modules && chown -R node:node /home/node/app
 
-# Get the package.json first to install dependencies
-COPY package.json /app
+WORKDIR /home/node/app
 
-RUN apt-get update -y && apt-get install -y \
-    nano \
-    net-tools
+COPY package*.json ./
 
-# Copy the rest of the app to the working directory
-COPY . /app
+USER node
+
+RUN npm install
+
+COPY --chown=node:node . .
+
+EXPOSE 3000
+
+CMD [ "npm", "start" ]
