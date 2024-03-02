@@ -31,7 +31,7 @@ const executed = async(req,res,next)=>{
          
             await transactionExist.update({
                 executed : req.body.executed
-            })
+            },{transaction})
         
             if(transactionExist.executed == true){
                 return res.status(200).json({
@@ -59,16 +59,16 @@ const executed = async(req,res,next)=>{
                     user_id : transactionExist.user_id,
                     mutualfund_id: transactionExist.mutualfund_id,
                     units : unitsExist
-                })
+                },{transaction})
             }
             else{
               
                 await myInvestExist.update({
                     units :Number(myInvestExist.units) + Number(unitsExist)
-                })
+                },{transaction})
                
             }
-
+            await transaction.commit()
             return res.status(200).json({
                 message:'Transaction Is Not Executed',
                 data :{
@@ -81,10 +81,10 @@ const executed = async(req,res,next)=>{
 
             await transactionExist.update({
                 executed : req.body.executed
-            })
+            },{transaction})
 
             if(transactionExist.executed == false){
-                return res.status(200).json({
+                return res.status(400).json({
                     message:'Transaction Is Not Executed',
                     data :{
                         transaction: transactionExist, 
@@ -99,6 +99,8 @@ const executed = async(req,res,next)=>{
                     user_id : transactionExist.user_id
                 }
             })
+
+            console.log("halo")
             if(!myInvestExist){
                 throw{
                     code:400,
@@ -113,10 +115,10 @@ const executed = async(req,res,next)=>{
             await myInvestExist.update({
                 pendingsell_amount : Number(myInvestExist.pendingsell_amount) - Number(transactionExist.transaction_amount),
                 units :Number(myInvestExist.units) - transactionUnits
-            })
+            },{transaction})
         
             
-
+            await transaction.commit()
             return res.status(200).json({
                 message:'Transaction Is Not Executed',
                 data :{
@@ -195,6 +197,7 @@ const executed = async(req,res,next)=>{
         }
         
     } catch (error) {
+        await transaction.rollback()
         next(error)
     }
     

@@ -97,7 +97,8 @@ const buy = async(req,res,next)=>{
         });
         await transaction.commit();
         return res.status(200).json({
-            message:'Transaction Created'
+            message:'Transaction Created',
+            data : buyMutualFunds
             })
         
     } catch (error) {
@@ -166,7 +167,7 @@ const pay = async  (req,res,next)=>{
         }
         const nav = await MutualFunds.findByPk(transactionExist.mutualfund_id)
       
-        if (((day >= 1 && day <= 5) && (hour === 8 && minutes >= 0) || (hour > 8 && hour < 15) || (hour === 15 && minutes === 0) )) {
+        if ((day >= 1 && day <= 5) && (((hour >= 8 && hour < 15) )|| (hour === 15 && minutes === 0))){
            
             pay = await transactionExist.update({
                 paid : true,
@@ -174,8 +175,10 @@ const pay = async  (req,res,next)=>{
             },{transaction})
            
             checkedMyInvest = await MyInvest.findOne({
-                mutualfund_id : pay.mutualfund_id
-            })
+                where: {
+                mutualfund_id : pay.mutualfund_id,
+                user_id : req.id
+            }})
             if(!checkedMyInvest){
                let totalUnit = pay.transaction_amount  / nav.nav
                 checkedMyInvest = await MyInvest.create({
@@ -186,7 +189,7 @@ const pay = async  (req,res,next)=>{
             }
             else{
                 await checkedMyInvest.update({
-                    units : checkedMyInvest.units + (pay.transaction_amount  / nav.nav)
+                    units : Number(checkedMyInvest.units) + (Number(pay.transaction_amount)  / Number(nav.nav))
                 },{transaction})
             }
 
@@ -238,7 +241,7 @@ const sell = async (req,res,next)=>{
         }
 
         let mutualFund = await MutualFunds.findByPk(myInvestExist.mutualfund_id)
-        let myInvestExistAmount = (myInvestExist.units * mutualFund.nav) - myInvestExist.pendingswitch_amount - myInvestExist.pendingsell_amount
+        let myInvestExistAmount = (Number(myInvestExist.units) * Number(mutualFund.nav)) - Number(myInvestExist.pendingswitch_amount) - Number(myInvestExist.pendingsell_amount)
         let totalAmount =  req.body.amount
 
         if(totalAmount > myInvestExistAmount){
@@ -249,11 +252,11 @@ const sell = async (req,res,next)=>{
         }
        
 
-        if (((day >= 1 && day <= 5) && (hour === 8 && minutes >= 0) || (hour > 8 && hour < 15) || (hour === 15 && minutes === 0) )) {
+        if ((day >= 1 && day <= 5) && (((hour >= 8 && hour < 15) )|| (hour === 15 && minutes === 0))){
             paid = true
             executed = true
             await myInvestExist.update({
-                units : (myInvestExistAmount / mutualFund.nav) - (totalAmount / mutualFund.nav)
+                units : (Number(myInvestExistAmount) / Number(mutualFund.nav)) - (totalAmount / Number(mutualFund.nav))
             },{transaction})
         }
         else{
@@ -314,7 +317,7 @@ const switchMutualFund = async (req,res,next)=>{
 
         let mutualFund = await MutualFunds.findByPk(myInvestExist.mutualfund_id)
         let targetMutualFund = await MutualFunds.findByPk(req.body.targetmutualfund_id)
-        let myInvestExistAmount = (myInvestExist.units * mutualFund.nav) - myInvestExist.pendingswitch_amount - myInvestExist.pendingsell_amount
+        let myInvestExistAmount = (Number(myInvestExist.units) * Number(mutualFund.nav)) - Number(myInvestExist.pendingswitch_amount) - Number(myInvestExist.pendingsell_amount)
         if(!targetMutualFund){
             throw{
                 code:404,
@@ -332,10 +335,10 @@ const switchMutualFund = async (req,res,next)=>{
         }
 
 
-        let targetunits = req.body.amount / targetMutualFund.nav
+        let targetunits = req.body.amount / Number(targetMutualFund.nav)
         
        
-        if (((day >= 1 && day <= 5) && (hour === 8 && minutes >= 0) || (hour > 8 && hour < 15) || (hour === 15 && minutes === 0) )) {
+        if (!((day >= 1 && day <= 5) && (((hour >= 8 && hour < 15) )|| (hour === 15 && minutes === 0)))){
             executed = true
         }
 
@@ -347,11 +350,11 @@ const switchMutualFund = async (req,res,next)=>{
             transaction_time: new Date,
             executed: executed,
             switch_to : req.body.targetmutualfund_id
-        })
+        },{transaction})
 
         if(executed == true){
             await myInvestExist.update({
-                units : myInvestExist.units - (req.body.amount / mutualFund.nav)
+                units : Number(myInvestExist.units) - (req.body.amount / Number(mutualFund.nav))
             },{transaction})
         
             targetMyInvest = await MyInvest.findOne({

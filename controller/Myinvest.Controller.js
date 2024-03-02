@@ -13,7 +13,7 @@ const getMyInvest = async (req,res,next)=>{
 
             const mutualFund = await MutualFunds.findByPk(investment.mutualfund_id)
 
-            await investment.update({amount: mutualFund.nav * investment.units })
+            await investment.update({amount: Number(mutualFund.nav) * Number(investment.units) })
         }
 
         return res.status(200).json({
@@ -41,7 +41,7 @@ const getDetailMyInvest = async(req,res,next)=>{
 
         const mutualFund = await MutualFunds.findByPk(myInvestExist.mutualfund_id)
 
-        await myInvestExist.update({ammount:mutualFund.nav * myInvestExist.units})
+        await myInvestExist.update({ammount:Number(mutualFund.nav) * Number(myInvestExist.units)})
 
         return res.status(200).json({
             message:'My Transaction',
@@ -51,8 +51,8 @@ const getDetailMyInvest = async(req,res,next)=>{
                 name:mutualFund.name,
                 ammount: myInvestExist.units * mutualFund.nav,
                 nav:mutualFund.nav,
-                pendingsell_amount: myInvestExist.pendingsell_amount,
-                pendingswitch_amount: myInvestExist.pendingswitch_amount
+                pendingsell_amount:Number(myInvestExist.pendingsell_amount),
+                pendingswitch_amount: Number(myInvestExist.pendingswitch_amount)
 
             }
             })

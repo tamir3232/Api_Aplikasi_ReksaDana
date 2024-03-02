@@ -3853,3 +3853,269 @@
   label: 'backend-service',
   timestamp: '2024-03-02T06:43:11.492Z'
 }
+{
+  message: 'Do not have authorization to access this resource',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T07:06:03.990Z'
+}
+{
+  message: 'invalid input syntax for type uuid: ""',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T07:08:13.454Z'
+}
+{
+  message: "Cannot read properties of undefined (reading 'filename')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T07:10:11.057Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T07:11:39.462Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T07:35:28.442Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T07:35:41.657Z'
+}
+{
+  message: 'Do not have authorization to access this resource',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T07:38:21.954Z'
+}
+{
+  message: 'My invest not exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T07:44:26.229Z'
+}
+{
+  message: 'Do not have authorization to access this resource',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T07:51:15.853Z'
+}
+{
+  message: 'the Amount entered is not appropriate or to the Amount entered bigger than exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T07:51:25.717Z'
+}
+{
+  message: 'the Amount entered is not appropriate or to the Amount entered bigger than exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T07:51:50.158Z'
+}
+{
+  message: 'the Amount entered is not appropriate or to the Amount entered bigger than exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T07:51:53.208Z'
+}
+{
+  message: 'Do not have authorization to access this resource',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T07:55:53.395Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:00:10.043Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:02:25.548Z'
+}
+{
+  message: 'My Invest Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:09:29.482Z'
+}
+{
+  message: 'My invest not exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:10:15.885Z'
+}
+{
+  message: 'total Amount is to bigger',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:10:30.789Z'
+}
+{
+  message: 'total Amount is to bigger',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:10:39.492Z'
+}
+{
+  message: 'total Amount is to bigger',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:10:54.600Z'
+}
+{
+  message: 'total Amount is to bigger',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:11:01.700Z'
+}
+{
+  message: 'total Amount is to bigger',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:11:06.975Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:14:48.214Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:15:20.318Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:15:56.581Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:15:59.852Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:16:01.301Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:16:32.360Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:16:55.203Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:17:23.987Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:17:25.496Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:17:26.518Z'
+}
+{
+  message: 'invalid input syntax for type integer: "437.5"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:21:57.768Z'
+}
+{
+  message: 'invalid input syntax for type integer: "437.5"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:22:19.288Z'
+}
+{
+  message: 'invalid input syntax for type integer: "437.5"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:22:50.502Z'
+}
+{
+  message: 'invalid input syntax for type integer: "437.5"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:29:28.186Z'
+}
+{
+  message: 'GET /api/v1/myinvest/ac31f399-c9ff-49be-a72d-da98929f14fc/fddd3a00-94c1-4fa7-8f9d-d3209453474e',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:31:58.480Z'
+}
+{
+  message: 'Do not have authorization to access this resource',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T08:32:08.180Z'
+}
