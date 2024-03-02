@@ -20,7 +20,7 @@ const isTokenValid = (role) => (req, res, next) => {
                         'Do not have authorization to access this resource',
                 }
             }
-        
+        console.log(decoded)
         req.email = decoded.email
         req.id = decoded.id
         next()

@@ -56,6 +56,7 @@ const login = async(req,res,next)=>{
         const{
             email,password
         } = req.body
+        
         const userExist = await Users.findOne({
             where:{
                 email:email,
@@ -68,8 +69,6 @@ const login = async(req,res,next)=>{
             })
         }
 
-        console.log(userExist.password)
-
         const isPasswordValid = await bcrypt.compare(password, userExist.password)
 
         if(!isPasswordValid){
@@ -79,7 +78,7 @@ const login = async(req,res,next)=>{
         }
         
         const token = jwt.sign(
-            { email: userExist.email, user_id: userExist.id, role: userExist.role },
+            { email: userExist.email, id: userExist.id, role: userExist.role },
             process.env.JWT_SECRET)
       
 

@@ -15,6 +15,7 @@ const getAllTransactions = async(req,res,next)=>{
         }
         
     })
+    
 
 
     return res.status(200).json({
@@ -34,6 +35,12 @@ const getDetailTransactions = async(req,res,next)=>{
         }
         
     })
+
+    if(transactionExist.length<1){
+        return res.status(404).json({
+            message:'Transaction Not Exist',
+            })
+    }
 
 
     return res.status(200).json({
