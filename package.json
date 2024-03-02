@@ -1,0 +1,39 @@
+{
+  "name": "bnibackendassessment",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^16.4.5",
+    "express": "~4.16.1",
+    "express-group-routes": "^1.1.0",
+    "googleapis": "^133.0.0",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "jimp": "^0.22.12",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "~1.9.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.0",
+    "pg": "^8.11.3",
+    "pg-hstore": "^2.3.4",
+    "qrcode": "^1.5.3",
+    "qrcode-reader": "^1.0.4",
+    "sequelize": "^6.37.1",
+    "winston": "^3.11.0"
+  },
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "sequelize-cli": "^6.6.2"
+  }
+}

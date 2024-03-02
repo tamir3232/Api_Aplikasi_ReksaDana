@@ -1,0 +1,3757 @@
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T06:47:24.139Z'
+}
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T06:47:34.988Z'
+}
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T06:48:00.650Z'
+}
+{
+  message: 'GET /api/v1/mutualfunda',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T06:48:04.864Z'
+}
+{
+  message: 'GET /api/v1/mutualfunda',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T06:48:37.551Z'
+}
+{
+  message: 'GET /api/v1/mutualfunda',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T06:48:49.968Z'
+}
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T06:48:54.197Z'
+}
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T06:49:20.962Z'
+}
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T06:50:36.753Z'
+}
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T06:51:18.087Z'
+}
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T06:52:10.688Z'
+}
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T06:52:14.662Z'
+}
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T06:52:49.107Z'
+}
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T06:53:02.314Z'
+}
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T06:53:47.747Z'
+}
+{
+  message: "Expected property name or '}' in JSON at position 6",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T06:56:14.011Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.nav cannot be null,\n' +
+    'notNull Violation: MutualFunds.created_at cannot be null,\n' +
+    'notNull Violation: MutualFunds.updated_at cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:07:50.052Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.created_at cannot be null,\n' +
+    'notNull Violation: MutualFunds.updated_at cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:08:18.145Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.created_at cannot be null,\n' +
+    'notNull Violation: MutualFunds.updated_at cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:12:05.105Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.created_at cannot be null,\n' +
+    'notNull Violation: MutualFunds.updated_at cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:12:27.269Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.created_at cannot be null,\n' +
+    'notNull Violation: MutualFunds.updated_at cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:16:55.540Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.created_at cannot be null,\n' +
+    'notNull Violation: MutualFunds.updated_at cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:16:56.660Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.created_at cannot be null,\n' +
+    'notNull Violation: MutualFunds.updated_at cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:16:57.371Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.created_at cannot be null,\n' +
+    'notNull Violation: MutualFunds.updated_at cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:16:58.267Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.created_at cannot be null,\n' +
+    'notNull Violation: MutualFunds.updated_at cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:16:58.622Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.created_at cannot be null,\n' +
+    'notNull Violation: MutualFunds.updated_at cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:16:59.597Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.created_at cannot be null,\n' +
+    'notNull Violation: MutualFunds.updated_at cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:17:24.747Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.created_at cannot be null,\n' +
+    'notNull Violation: MutualFunds.updated_at cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:18:14.344Z'
+}
+{
+  message: 'MutualFundsExist is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:22:43.573Z'
+}
+{
+  message: 'Expected double-quoted property name in JSON at position 47',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:38:20.993Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.company cannot be null,\n' +
+    'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:38:27.731Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.company cannot be null,\n' +
+    'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:38:56.108Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.company cannot be null,\n' +
+    'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:39:24.914Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.company cannot be null,\n' +
+    'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:39:26.605Z'
+}
+{
+  message: 'notNull Violation: MutualFunds.company cannot be null,\n' +
+    'notNull Violation: MutualFunds.nav cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:39:37.911Z'
+}
+{
+  message: 'findOrder is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:40:02.828Z'
+}
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:42:42.282Z'
+}
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:42:43.557Z'
+}
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:42:53.446Z'
+}
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:42:54.660Z'
+}
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:43:03.988Z'
+}
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:43:05.130Z'
+}
+{
+  message: 'Mutual Funds Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:43:12.352Z'
+}
+{
+  message: 'MutualFunds.length is not a function',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:44:42.222Z'
+}
+{
+  message: 'MutualFunds.length is not a function',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:44:44.120Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T07:54:03.202Z'
+}
+{
+  message: 'POST /api/v1/buy/',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:48:27.402Z'
+}
+{
+  message: 'POST /api/v1/transaction/buy',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:48:33.289Z'
+}
+{
+  message: 'GET /favicon.ico',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:51:10.123Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:51:22.304Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:51:55.708Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:52:22.122Z'
+}
+{
+  message: 'invalid input syntax for type uuid: "Reksa Dana Bahagia"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:53:32.009Z'
+}
+{
+  message: 'invalid input syntax for type uuid: "Reksa Dana Bahagia"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:53:56.255Z'
+}
+{
+  message: 'invalid input syntax for type uuid: "Reksa Dana Bahagia"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:55:58.761Z'
+}
+{
+  message: 'notNull Violation: Transactions.mutualfund_id cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:56:48.386Z'
+}
+{
+  message: 'Expected double-quoted property name in JSON at position 82',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:56:55.423Z'
+}
+{
+  message: 'notNull Violation: Transactions.mutualfund_id cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:56:58.671Z'
+}
+{
+  message: 'column "mutualfund_id" of relation "transactions" does not exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:57:14.377Z'
+}
+{
+  message: 'column "mutualfund_id" does not exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:57:53.665Z'
+}
+{
+  message: 'column "mutualfund_id" does not exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:57:55.971Z'
+}
+{
+  message: 'column "mutualfund_id" does not exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:58:14.237Z'
+}
+{
+  message: 'column "mutualfund_id" does not exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:58:36.100Z'
+}
+{
+  message: 'column "mutualfund_id" does not exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:58:49.191Z'
+}
+{
+  message: 'column "mutualfund_id" does not exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T08:59:10.163Z'
+}
+{
+  message: 'invalid input value for enum enum_transactions_transaction_type: "2024-02-29T16:00:25.730+07:00"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:00:25.754Z'
+}
+{
+  message: 'invalid input value for enum enum_transactions_transaction_type: "2024-02-29T16:00:55.684+07:00"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:00:55.691Z'
+}
+{
+  message: 'invalid input value for enum enum_transactions_transaction_type: "2024-02-29T16:01:08.633+07:00"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:01:08.650Z'
+}
+{
+  message: 'invalid input value for enum enum_transactions_transaction_type: "2024-02-29T16:01:17.518+07:00"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:01:17.536Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:13:50.382Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:13:58.756Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:14:16.418Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:14:17.680Z'
+}
+{
+  message: 'insert or update on table "transactions" violates foreign key constraint "transactions_user_id_fkey"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:14:38.832Z'
+}
+{
+  message: 'Invalid data',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:17:46.387Z'
+}
+{
+  message: 'Invalid data',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:17:58.033Z'
+}
+{
+  message: 'Invalid data',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:18:07.197Z'
+}
+{
+  message: 'Invalid data',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:18:52.452Z'
+}
+{
+  message: 'Invalid data',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:20:21.254Z'
+}
+{
+  message: 'Invalid data',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:20:46.593Z'
+}
+{
+  message: 'Invalid data',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:20:55.446Z'
+}
+{
+  message: 'Invalid data',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:20:57.727Z'
+}
+{
+  message: 'Invalid data',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:21:02.214Z'
+}
+{
+  message: 'Invalid data',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:21:48.708Z'
+}
+{
+  message: 'Invalid data',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T09:22:03.947Z'
+}
+{
+  message: 'Mutual Funds not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T10:05:25.482Z'
+}
+{
+  message: 'invalid input value for enum enum_transactions_payment_method: "Qr code"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T10:07:48.496Z'
+}
+{
+  message: 'POST /api/v1/transaction/pay',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T13:43:48.119Z'
+}
+{
+  message: 'POST /api/v1/transaction/pay',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T13:43:58.396Z'
+}
+{
+  message: 'The "path" argument must be of type string or an instance of Buffer or URL. Received undefined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T13:45:53.388Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:02:22.958Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:02:27.249Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:02:58.775Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:10:56.136Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:14:29.672Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:14:43.230Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:15:52.173Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:15:53.444Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:16:23.690Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:16:25.171Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:16:49.463Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:16:50.922Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:17:27.285Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:17:31.686Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:18:33.224Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:18:51.988Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:18:53.002Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:19:01.978Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:19:10.601Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:19:11.632Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:19:44.570Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:20:05.076Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:20:06.099Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:20:50.398Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:21:14.800Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:21:16.439Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:23:41.924Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:23:43.500Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:23:49.286Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:24:42.859Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:24:48.649Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:24:49.903Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:25:26.039Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:25:27.373Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:25:28.785Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:25:40.215Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:25:43.088Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:26:02.801Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:26:04.264Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:26:35.013Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:26:51.983Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:28:30.790Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:28:32.140Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:30:12.838Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:30:13.894Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:30:14.738Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:30:52.673Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:32:40.078Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:32:41.378Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:34:19.361Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:43:29.535Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T14:44:40.808Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:10:32.294Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:10:33.975Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:10:52.281Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:10:53.781Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:11:06.666Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:11:44.941Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:11:46.073Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:11:52.631Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:11:53.708Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:11:59.715Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:12:37.894Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:12:39.157Z'
+}
+{
+  message: 'Multipart: Boundary not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:12:43.018Z'
+}
+{
+  message: 'Multipart: Boundary not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:12:44.085Z'
+}
+{
+  message: 'Multipart: Boundary not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:12:45.967Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:12:49.081Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:12:50.868Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:12:51.804Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:13:02.429Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:13:03.434Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:13:09.387Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:14:53.529Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:14:54.768Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:15:09.407Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:15:13.169Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:15:14.091Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:15:14.935Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:15:22.106Z'
+}
+{
+  message: 'Unexpected end of form',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:15:41.694Z'
+}
+{
+  message: "Cannot read properties of undefined (reading '0')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:22:19.945Z'
+}
+{
+  message: "Cannot read properties of undefined (reading '0')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:22:26.777Z'
+}
+{
+  message: "Cannot read properties of undefined (reading '0')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:22:30.724Z'
+}
+{
+  message: "Cannot read properties of undefined (reading '0')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:22:31.924Z'
+}
+{
+  message: "Cannot read properties of undefined (reading '0')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:22:54.314Z'
+}
+{
+  message: "ENOENT: no such file or directory, open './public/images/uploads/[object Object]'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:30:42.234Z'
+}
+{
+  message: "ENOENT: no such file or directory, open './public/images/uploads/[object Object]'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:31:24.826Z'
+}
+{
+  message: "ENOENT: no such file or directory, open './public/images/uploads/[object Object]'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:31:28.799Z'
+}
+{
+  message: "ENOENT: no such file or directory, open './public/images/uploads/[object Object]'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:31:33.537Z'
+}
+{
+  message: "ENOENT: no such file or directory, open './public/images/uploads/[object Object]'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:33:01.110Z'
+}
+{
+  message: "ENOENT: no such file or directory, open './public/images/uploads/[object Object]'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:33:13.642Z'
+}
+{
+  message: "ENOENT: no such file or directory, open './public/images/uploads/[object Object]'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:33:15.496Z'
+}
+{
+  message: "ENOENT: no such file or directory, open './public/images/uploads/[object Object]'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:33:20.992Z'
+}
+{
+  message: "ENOENT: no such file or directory, open '../public/images/uploads/[object Object]'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:33:34.027Z'
+}
+{
+  message: "ENOENT: no such file or directory, open '../public/images/uploads/7a0d17aa-cde6-4d03-9914-6c854cddb9da.png'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T15:34:45.453Z'
+}
+{
+  message: 'notNull Violation: Transactions.transaction_amount cannot be null,\n' +
+    'notNull Violation: Transactions.payment_method cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:43:52.563Z'
+}
+{
+  message: 'Multipart: Boundary not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:44:38.238Z'
+}
+{
+  message: 'Multipart: Boundary not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:44:39.759Z'
+}
+{
+  message: 'Multipart: Boundary not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:44:52.083Z'
+}
+{
+  message: 'Multipart: Boundary not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:46:37.030Z'
+}
+{
+  message: 'Multipart: Boundary not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:47:09.316Z'
+}
+{
+  message: 'Multipart: Boundary not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:47:11.348Z'
+}
+{
+  message: 'Multipart: Boundary not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:47:12.396Z'
+}
+{
+  message: 'Multipart: Boundary not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:47:38.226Z'
+}
+{
+  message: 'Multipart: Boundary not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:48:58.130Z'
+}
+{
+  message: 'Multipart: Boundary not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:48:59.291Z'
+}
+{
+  message: 'Multipart: Boundary not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:49:30.317Z'
+}
+{
+  message: 'Multipart: Boundary not found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:49:31.616Z'
+}
+{
+  message: 'POST /api/v1/transaction/buy',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:56:07.388Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:56:27.849Z'
+}
+{
+  message: "ENOENT: no such file or directory, open './public/images/uploads/1709225853848-7a0d17aa-cde6-4d03-9914-6c854cddb9da.png'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:58:02.619Z'
+}
+{
+  message: "ENOENT: no such file or directory, open './public/images/uploads/1709225853848-7a0d17aa-cde6-4d03-9914-6c854cddb9da.png'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:58:47.659Z'
+}
+{
+  message: "ENOENT: no such file or directory, open './public/images/uploads/1709225853848-7a0d17aa-cde6-4d03-9914-6c854cddb9da.png'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:58:51.985Z'
+}
+{
+  message: "ENOENT: no such file or directory, open './public/images/uploads/1709225853848-7a0d17aa-cde6-4d03-9914-6c854cddb9da.png'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:59:13.840Z'
+}
+{
+  message: "ENOENT: no such file or directory, open './public/images/uploads/1709225853848-7a0d17aa-cde6-4d03-9914-6c854cddb9da.png'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:59:15.173Z'
+}
+{
+  message: "ENOENT: no such file or directory, open './public/images/uploads/1709225853848-7a0d17aa-cde6-4d03-9914-6c854cddb9da.png'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:59:24.547Z'
+}
+{
+  message: "ENOENT: no such file or directory, open '../public/images/uploads/1709225853848-7a0d17aa-cde6-4d03-9914-6c854cddb9da.png'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T16:59:39.353Z'
+}
+{
+  message: "ENOENT: no such file or directory, open './public/images/uploads/1709225853848-7a0d17aa-cde6-4d03-9914-6c854cddb9da.png'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:00:19.592Z'
+}
+{
+  message: "ENOENT: no such file or directory, open './public/images/uploads/1709225853848-7a0d17aa-cde6-4d03-9914-6c854cddb9da.png'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:00:20.895Z'
+}
+{
+  message: "ENOENT: no such file or directory, open './public/images/uploads/1709225853848-7a0d17aa-cde6-4d03-9914-6c854cddb9da.png'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:01:05.554Z'
+}
+{
+  message: "ENOENT: no such file or directory, open './public/images/uploads/1709225853848-7a0d17aa-cde6-4d03-9914-6c854cddb9da.png'",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:01:14.345Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:01:30.911Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:01:49.244Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:02:07.474Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:02:23.211Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:03:03.477Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:14:08.775Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:14:10.570Z'
+}
+{
+  message: 'transaction_id is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:14:50.391Z'
+}
+{
+  message: 'transaction_id is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:14:51.694Z'
+}
+{
+  message: 'transaction_id is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:14:59.539Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:15:23.537Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:15:25.408Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:15:30.777Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:18:23.605Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:18:24.681Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:18:28.134Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:18:58.080Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:19:00.997Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:22:04.925Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:22:09.583Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:22:10.682Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:22:42.771Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:22:44.976Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:22:46.220Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:22:47.283Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:22:48.074Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:23:12.653Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:23:13.841Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:23:14.737Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:23:15.690Z'
+}
+{
+  message: 'qrCodeInstance is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:32:53.806Z'
+}
+{
+  message: 'qrCodeInstance is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:32:55.745Z'
+}
+{
+  message: 'qrCodeInstance is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:33:41.114Z'
+}
+{
+  message: 'qrCodeInstance is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:33:50.547Z'
+}
+{
+  message: 'qrCodeInstance is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:37:29.151Z'
+}
+{
+  message: 'qrCodeInstance is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:37:30.682Z'
+}
+{
+  message: 'qrCodeInstance is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:37:46.991Z'
+}
+{
+  message: 'qrCodeInstance is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:38:06.499Z'
+}
+{
+  message: 'qrCodeInstance is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:38:07.656Z'
+}
+{
+  message: 'qrCodeInstance is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:38:08.894Z'
+}
+{
+  message: 'qrCodeInstance is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:38:24.381Z'
+}
+{
+  message: 'image is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:38:54.235Z'
+}
+{
+  message: 'image is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:38:55.387Z'
+}
+{
+  message: 'image is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:38:56.324Z'
+}
+{
+  message: 'image is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:40:17.241Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:42:49.062Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:42:51.375Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:42:53.173Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:42:54.263Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:43:03.376Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:43:04.749Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:43:05.641Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:43:06.560Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:43:07.419Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:43:08.091Z'
+}
+{
+  message: 'The "callback" argument must be of type function. Received type number (2000)',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:45:03.562Z'
+}
+{
+  message: 'The "callback" argument must be of type function. Received type number (2000)',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:45:08.755Z'
+}
+{
+  message: 'The "callback" argument must be of type function. Received type number (2000)',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:45:10.137Z'
+}
+{
+  message: 'The "callback" argument must be of type function. Received type number (2000)',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:45:11.033Z'
+}
+{
+  message: 'The "callback" argument must be of type function. Received type number (2000)',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:45:43.543Z'
+}
+{
+  message: 'The "callback" argument must be of type function. Received type number (2000)',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:45:44.660Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:51:38.521Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:51:39.957Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:51:41.313Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:51:42.157Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:51:44.048Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:52:09.394Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:52:11.138Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:52:12.146Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:52:13.013Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:52:13.693Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:52:14.423Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:52:15.139Z'
+}
+{
+  message: 'Transaksi Tidak Ditemukaan',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T17:52:15.921Z'
+}
+{
+  message: 'Transactions.findByPk(...).getMutualFunds is not a function',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:15:24.908Z'
+}
+{
+  message: 'Transactions.findByPk(...).getMutualFunds is not a function',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:15:26.825Z'
+}
+{
+  message: 'MutualFunds.findByPk(...).nav is not a function',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:16:14.753Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:22:20.714Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:22:24.020Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:22:44.529Z'
+}
+{
+  message: 'transaction_amount is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:23:12.856Z'
+}
+{
+  message: 'transaction_amount is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:23:15.502Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:23:21.897Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:23:30.154Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:23:31.539Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:23:51.127Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:23:59.903Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:24:22.889Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:24:34.658Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:24:46.533Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:25:27.187Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:25:29.286Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:25:39.344Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:25:40.734Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:26:06.814Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:26:15.602Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:26:20.679Z'
+}
+{
+  message: 'invalid input syntax for type integer: "NaN"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:28:35.835Z'
+}
+{
+  message: 'the amount of money is less than it should be',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:37:01.626Z'
+}
+{
+  message: 'The amount entered does not match the amount that should be',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:56:43.724Z'
+}
+{
+  message: 'The amount entered does not match the amount that should be',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:58:18.231Z'
+}
+{
+  message: 'The amount entered does not match the amount that should be',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:58:20.103Z'
+}
+{
+  message: 'The amount entered does not match the amount that should be',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T18:58:36.164Z'
+}
+{
+  message: 'The amount entered does not match the amount that should be',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T19:01:38.915Z'
+}
+{
+  message: 'The amount entered does not match the amount that should be',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T19:02:56.504Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T19:05:26.473Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T19:05:30.009Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T19:05:57.617Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T19:14:38.381Z'
+}
+{
+  message: 'checkedMyInvest is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-02-29T19:14:58.343Z'
+}
+{
+  message: "Cannot read properties of undefined (reading 'filename')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T00:31:45.860Z'
+}
+{
+  message: "Cannot read properties of undefined (reading 'filename')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T00:31:50.214Z'
+}
+{
+  message: "Cannot read properties of undefined (reading 'filename')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T00:31:53.986Z'
+}
+{
+  message: "Cannot read properties of undefined (reading 'filename')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T00:32:27.161Z'
+}
+{
+  message: "Cannot read properties of undefined (reading 'filename')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T00:32:28.377Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T00:32:58.881Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T00:56:42.544Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T00:56:55.122Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T01:03:17.209Z'
+}
+{
+  message: 'now is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T04:47:47.147Z'
+}
+{
+  message: 'now is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T04:47:57.685Z'
+}
+{
+  message: 'now is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T04:48:14.903Z'
+}
+{
+  message: 'now is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T04:48:19.543Z'
+}
+{
+  message: 'My invest not exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T04:49:25.223Z'
+}
+{
+  message: 'My invest not exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T04:49:32.742Z'
+}
+{
+  message: "Cannot access 'mutualFund' before initialization",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T05:27:09.830Z'
+}
+{
+  message: 'notNull Violation: Transactions.payment_method cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T05:27:41.447Z'
+}
+{
+  message: 'notNull Violation: Transactions.payment_method cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T05:28:27.089Z'
+}
+{
+  message: 'invalid input syntax for type integer: "49.925"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T05:29:35.960Z'
+}
+{
+  message: 'invalid input syntax for type integer: "49.925"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T05:29:48.221Z'
+}
+{
+  message: 'total Amount is to bigger',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T05:42:07.547Z'
+}
+{
+  message: 'total Amount is to bigger',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T05:42:33.280Z'
+}
+{
+  message: 'total Amount is to bigger',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T05:42:43.221Z'
+}
+{
+  message: 'now is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T05:45:10.877Z'
+}
+{
+  message: "Cannot access 'mutualFund' before initialization",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T05:45:20.468Z'
+}
+{
+  message: 'the target mutual funds entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T05:45:43.790Z'
+}
+{
+  message: 'the target mutual funds entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T05:46:10.897Z'
+}
+{
+  message: 'the target mutual funds entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T05:46:19.316Z'
+}
+{
+  message: 'the target mutual funds entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T05:46:59.950Z'
+}
+{
+  message: 'the target mutual funds entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T05:48:07.732Z'
+}
+{
+  message: 'the target mutual funds entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T05:48:36.573Z'
+}
+{
+  message: 'paid is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T05:49:06.868Z'
+}
+{
+  message: 'the target mutual funds entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T05:49:34.588Z'
+}
+{
+  message: 'My invest not exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:14:19.856Z'
+}
+{
+  message: 'the target mutual funds entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:15:15.317Z'
+}
+{
+  message: 'the target mutual funds entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:15:26.140Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:15:53.949Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:16:04.068Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:16:27.728Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:16:34.255Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:16:56.654Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:17:07.294Z'
+}
+{
+  message: 'notNull Violation: Transactions.payment_method cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:17:19.588Z'
+}
+{
+  message: 'invalid input syntax for type numeric: "2.52.5"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:21:26.043Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:21:29.303Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:21:31.175Z'
+}
+{
+  message: 'invalid input syntax for type numeric: "2.52.5"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:21:47.546Z'
+}
+{
+  message: 'invalid input syntax for type numeric: "2.52.5"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:25:30.123Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:26:28.986Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:26:36.253Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:26:38.027Z'
+}
+{
+  message: 'invalid input syntax for type numeric: "2.52.5"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:26:53.388Z'
+}
+{
+  message: 'invalid input syntax for type numeric: "2.52.5"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:27:11.649Z'
+}
+{
+  message: 'invalid input syntax for type numeric: "2.52.5"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:27:18.578Z'
+}
+{
+  message: 'number is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:28:41.642Z'
+}
+{
+  message: 'invalid input syntax for type numeric: "2.52.5"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:28:53.903Z'
+}
+{
+  message: 'notNull Violation: Transactions.payment_method cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:29:10.456Z'
+}
+{
+  message: 'notNull Violation: Transactions.payment_method cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:29:23.352Z'
+}
+{
+  message: 'notNull Violation: Transactions.payment_method cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:29:29.565Z'
+}
+{
+  message: 'notNull Violation: Transactions.payment_method cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:34:41.171Z'
+}
+{
+  message: 'notNull Violation: Transactions.payment_method cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:35:09.960Z'
+}
+{
+  message: 'notNull Violation: Transactions.payment_method cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:35:15.366Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:48:35.140Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:48:35.725Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:48:36.884Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T07:48:37.716Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T08:37:16.716Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T08:37:23.605Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T08:37:53.885Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T08:38:48.633Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T08:44:44.413Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T08:45:03.630Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T08:45:07.505Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T08:45:15.420Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T08:45:23.264Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T08:45:32.700Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T08:46:03.973Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T08:46:13.741Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T08:55:54.609Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T08:56:04.119Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T08:56:14.410Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T08:56:47.096Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T08:56:51.947Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:00:43.744Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:00:45.868Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:00:50.527Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:00:52.406Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:00:53.499Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:00:54.542Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:00:55.286Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:01:01.536Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:01:42.800Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:02:03.252Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:02:05.132Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:02:07.621Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:02:08.558Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:02:09.374Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:02:10.035Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:02:10.719Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:02:11.407Z'
+}
+{
+  message: 'the Amount entered is not appropriate',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:02:12.450Z'
+}
+{
+  message: 'value "5000000000000b" is out of range for type integer',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:02:34.206Z'
+}
+{
+  message: 'notNull Violation: Transactions.transaction_type cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:03:03.682Z'
+}
+{
+  message: 'notNull Violation: Transactions.transaction_type cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:03:15.458Z'
+}
+{
+  message: 'invalid input syntax for type integer: "500a"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:04:32.839Z'
+}
+{
+  message: 'notNull Violation: Transactions.transaction_type cannot be null',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T09:04:58.947Z'
+}
+{
+  message: 'targetMyInvest is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T12:52:59.072Z'
+}
+{
+  message: 'targetMyInvest is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T12:53:44.566Z'
+}
+{
+  message: 'POST /api/v1/transaction/executed/23e73605-038d-4d1c-aeb9-8b543436dc1f',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T13:56:05.187Z'
+}
+{
+  message: 'POST /api/v1/transaction/executed/23e73605-038d-4d1c-aeb9-8b543436dc1f',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T13:58:18.279Z'
+}
+{
+  message: 'POST /api/v1/transaction/executed/23e73605-038d-4d1c-aeb9-8b543436dc1f',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T13:58:44.523Z'
+}
+{
+  message: 'POST /api/v1/transaction/executed/23e73605-038d-4d1c-aeb9-8b543436dc1f',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T13:58:45.712Z'
+}
+{
+  message: 'POST /api/v1/transaction/executed/23e73605-038d-4d1c-aeb9-8b543436dc1f',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T13:58:54.827Z'
+}
+{
+  message: 'POST /api/v1/transaction/executed/23e73605-038d-4d1c-aeb9-8b543436dc1f',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T13:58:59.667Z'
+}
+{
+  message: 'POST /api/v1/executed/23e73605-038d-4d1c-aeb9-8b543436dc1f',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T13:59:07.882Z'
+}
+{
+  message: 'POST /api/v1/executed/23e73605-038d-4d1c-aeb9-8b543436dc1f',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T13:59:09.583Z'
+}
+{
+  message: 'POST /api/v1/executed/23e73605-038d-4d1c-aeb9-8b543436dc1f',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T13:59:11.035Z'
+}
+{
+  message: 'Transactin Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T13:59:37.215Z'
+}
+{
+  message: 'Transactin Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:02:25.547Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:03:29.111Z'
+}
+{
+  message: "Cannot read properties of null (reading 'transaction_type')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:04:01.988Z'
+}
+{
+  message: "Cannot read properties of null (reading 'transaction_type')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:04:03.632Z'
+}
+{
+  message: "Cannot read properties of null (reading 'transaction_type')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:04:06.531Z'
+}
+{
+  message: "Cannot read properties of null (reading 'transaction_type')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:04:08.263Z'
+}
+{
+  message: "Cannot read properties of null (reading 'transaction_type')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:05:36.945Z'
+}
+{
+  message: 'Transactions Not Paid',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:06:01.848Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:06:25.708Z'
+}
+{
+  message: "Cannot read properties of null (reading 'transaction_type')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:07:16.763Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:07:54.594Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:34:32.476Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:34:50.983Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:34:52.642Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:35:01.278Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:35:19.047Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:35:28.678Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:36:00.719Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:36:11.500Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:36:12.984Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:36:16.794Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:36:31.364Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:36:51.263Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:37:05.050Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:37:13.744Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:37:26.068Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:38:10.923Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:38:26.453Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:38:28.825Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:38:38.727Z'
+}
+{
+  message: 'Missing where attribute in the options parameter',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:38:49.563Z'
+}
+{
+  message: "Cannot read properties of null (reading 'transaction_type')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:40:01.251Z'
+}
+{
+  message: "Cannot read properties of null (reading 'transaction_type')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:40:04.479Z'
+}
+{
+  message: "Cannot read properties of null (reading 'transaction_type')",
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:40:05.492Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T14:40:58.860Z'
+}
+{
+  message: 'My invest not exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T15:00:59.663Z'
+}
+{
+  message: 'column "pendingsell_amount" does not exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T15:46:08.349Z'
+}
+{
+  message: 'invalid input syntax for type integer: "null9000"',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T15:47:15.966Z'
+}
+{
+  message: 'total Amount is to bigger',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T15:48:43.222Z'
+}
+{
+  message: 'total Amount is to bigger',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T15:51:13.761Z'
+}
+{
+  message: 'total Amount is to bigger',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T15:51:32.689Z'
+}
+{
+  message: 'total Amount is to bigger',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T15:53:10.050Z'
+}
+{
+  message: 'total Amount is to bigger',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T15:56:27.565Z'
+}
+{
+  message: 'the Amount entered is not appropriate or to the Amount entered bigger than exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T15:56:42.131Z'
+}
+{
+  message: 'the Amount entered is not appropriate or to the Amount entered bigger than exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T15:56:51.343Z'
+}
+{
+  message: 'the Amount entered is not appropriate or to the Amount entered bigger than exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T15:56:58.158Z'
+}
+{
+  message: 'the Amount entered is not appropriate or to the Amount entered bigger than exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T15:56:59.255Z'
+}
+{
+  message: 'the Amount entered is not appropriate or to the Amount entered bigger than exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T15:57:08.109Z'
+}
+{
+  message: 'the Amount entered is not appropriate or to the Amount entered bigger than exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T15:57:09.334Z'
+}
+{
+  message: 'the Amount entered is not appropriate or to the Amount entered bigger than exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T15:57:34.280Z'
+}
+{
+  message: 'the Amount entered is not appropriate or to the Amount entered bigger than exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T15:57:42.439Z'
+}
+{
+  message: 'the Amount entered is not appropriate or to the Amount entered bigger than exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T16:02:38.730Z'
+}
+{
+  message: 'the Amount entered is not appropriate or to the Amount entered bigger than exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T16:02:43.198Z'
+}
+{
+  message: 'the Amount entered is not appropriate or to the Amount entered bigger than exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T16:04:30.509Z'
+}
+{
+  message: 'the Amount entered is not appropriate or to the Amount entered bigger than exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T16:04:35.338Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T16:16:20.888Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T16:35:45.686Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T16:35:47.441Z'
+}
+{
+  message: 'Transactions Is Not Exist',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T16:38:02.637Z'
+}
+{
+  message: 'MyInvest.findon is not a function',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:05:44.946Z'
+}
+{
+  message: 'MyInvest.findon is not a function',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:05:46.292Z'
+}
+{
+  message: 'units is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:16:09.379Z'
+}
+{
+  message: 'units is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:16:10.436Z'
+}
+{
+  message: 'units is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:16:12.036Z'
+}
+{
+  message: 'units is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:16:13.092Z'
+}
+{
+  message: 'GET /auth/google',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:42:41.198Z'
+}
+{
+  message: 'GET /favicon.ico',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:42:41.343Z'
+}
+{
+  message: 'Do not have authorization to access this resource',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:44:51.099Z'
+}
+{
+  message: 't is not defined',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:45:54.792Z'
+}
+{
+  message: 'Do not have authorization to access this resource',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:46:46.451Z'
+}
+{
+  message: 'Do not have authorization to access this resource',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:46:56.431Z'
+}
+{
+  message: 'Do not have authorization to access this resource',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:47:01.904Z'
+}
+{
+  message: 'Do not have authorization to access this resource',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:47:26.171Z'
+}
+{
+  message: 'Do not have authorization to access this resource',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:47:27.456Z'
+}
+{
+  message: 'Do not have authorization to access this resource',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:49:21.964Z'
+}
+{
+  message: 'Do not have authorization to access this resource',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:57:37.719Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:58:51.959Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:58:57.886Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:59:08.392Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:59:10.254Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:59:11.052Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:59:11.889Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:59:12.671Z'
+}
+{
+  message: 'Transaction Not Found',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-01T19:59:13.381Z'
+}
+{
+  message: 'PUT /api/v1/auth/login',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T05:15:29.639Z'
+}
+{
+  message: 'Illegal arguments: string, object',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T05:15:57.477Z'
+}
+{
+  message: 'Illegal arguments: string, object',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T05:16:00.859Z'
+}
+{
+  message: 'Illegal arguments: string, object',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T05:16:09.991Z'
+}
+{
+  message: 'Illegal arguments: string, object',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T05:17:26.353Z'
+}
+{
+  message: 'Illegal arguments: string, object',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T05:17:43.791Z'
+}
+{
+  message: 'Illegal arguments: string, object',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T05:17:52.295Z'
+}
+{
+  message: 'Illegal arguments: string, object',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T05:17:53.912Z'
+}
+{
+  message: 'WHERE parameter "email" has invalid "undefined" value',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T05:37:03.051Z'
+}
+{
+  message: 'GET /favicon.ico',
+  level: 'error',
+  service: 'error',
+  label: 'backend-service',
+  timestamp: '2024-03-02T05:40:03.710Z'
+}
